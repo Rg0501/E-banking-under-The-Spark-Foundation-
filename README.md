@@ -1,3 +1,4 @@
 # E-banking-under-The-Spark-Foundation-
-technlogy used jsp n servlet , 
-this web application is mainly work on transfer of money between two users.
+This task was given by The Spark Foundation.
+The main idea for this web application was transfer of money between two user
+and technlogy used jsp n servlet .
